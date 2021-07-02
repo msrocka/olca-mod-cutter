@@ -1,4 +1,4 @@
-package test;
+package org.openlca.{{cookiecutter.package}};
 
 import org.junit.Assert;
 import org.junit.Test;
