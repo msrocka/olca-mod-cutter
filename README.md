@@ -21,3 +21,12 @@ Cookiecutter to create it for you:
 ```bash
 cookiecutter https://github.com/msrocka/olca-mod-cutter.git
 ```
+
+Or use it offline:
+
+```
+cd ~/my-cutters
+git clone https://github.com/msrocka/olca-mod-cutter.git
+cd ~/my-projects
+cookiecutter ~/my-cutters/olca-mod-cutter
+```
